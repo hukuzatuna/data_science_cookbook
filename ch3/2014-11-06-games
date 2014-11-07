@@ -1,5 +1,5 @@
-Away				Home				Prediction	Confidence	Correct		Actual
-Cleveland Browns		Cincinnati Bengals		Bengals		  7.922733
+Away				Home				Prediction	Confidence	Correct		Actual			Spread
+Cleveland Browns		Cincinnati Bengals		Bengals		  7.922733	F		Browns 24, Bengals 03	21
 Kansas City Chiefs		Buffalo Bills			Chiefs		 58.524790
 Miami Dolphins			Indianapolis Lions		Dolphins	 23.333860
 Dallas Cowboys			Jacksonville Jaguars		Cowboys		188.650800
